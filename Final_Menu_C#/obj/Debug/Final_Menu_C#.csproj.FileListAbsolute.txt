@@ -1,0 +1,7 @@
+C:\Phuc_Hau\Code\First_Demo_C#\Final_Menu_C#\bin\Debug\Final_Menu_C#.exe.config
+C:\Phuc_Hau\Code\First_Demo_C#\Final_Menu_C#\bin\Debug\Final_Menu_C#.exe
+C:\Phuc_Hau\Code\First_Demo_C#\Final_Menu_C#\bin\Debug\Final_Menu_C#.pdb
+C:\Phuc_Hau\Code\First_Demo_C#\Final_Menu_C#\obj\Debug\Final_Menu_C#.csproj.AssemblyReference.cache
+C:\Phuc_Hau\Code\First_Demo_C#\Final_Menu_C#\obj\Debug\Final_Menu_C#.csproj.CoreCompileInputs.cache
+C:\Phuc_Hau\Code\First_Demo_C#\Final_Menu_C#\obj\Debug\Final_Menu_C#.exe
+C:\Phuc_Hau\Code\First_Demo_C#\Final_Menu_C#\obj\Debug\Final_Menu_C#.pdb
