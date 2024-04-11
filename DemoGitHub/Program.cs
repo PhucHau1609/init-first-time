@@ -11,6 +11,8 @@ namespace DemoGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+
+            Console.WriteLine("Hien len dum tao voi ");
         }
     }
 }
